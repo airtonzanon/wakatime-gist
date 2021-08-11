@@ -1,0 +1,8 @@
+{
+  "name": "Wakatime Weekly Languages Percentage Bot",
+  "description": "",
+  "image": "heroku/python",
+  "repository": "https://github.com/airtonzanon/wakatime-gist",
+  "keywords": ["python"]
+}
+
