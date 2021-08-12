@@ -2,6 +2,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/airtonzanon/wakatime-gist)
 
+If you would like to understand more about this project, [here](https://airton.dev/article/exibindo-no-github-metricas-de-tempo-gasto-em-linguagens-usando-wakatime/) is a good tutorial (in pt-br, but you can use google translator to understand).
+Se você quer entender mais sobre esse projeto, fiz um tutorial para você deployar no Heroku seu próprio script.
+[https://airton.dev/article/exibindo-no-github-metricas-de-tempo-gasto-em-linguagens-usando-wakatime/](https://airton.dev/article/exibindo-no-github-metricas-de-tempo-gasto-em-linguagens-usando-wakatime/)
+
+
 ### Necessary env var
 
 * `WAKATIME_API_KEY` = https://wakatime.com/settings/api-key
