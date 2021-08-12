@@ -6,6 +6,20 @@
   "keywords": ["python"],
   "addons": [
     "scheduler"
-  ]
+  ],
+  "env": {
+    "WAKATIME_API_KEY": {
+      "description": "Wakatime API Key - https://wakatime.com/settings/api-key"
+    },
+    "WAKATIME_USER_ID": {
+      "description": "Wakatime User Id - https://wakatime.com/me"
+    },
+    "GITHUB_TOKEN": {
+      "description": "Github Token - https://github.com/settings/tokens"
+    },
+    "GIST_ID": {
+      "description": "The hash on the gist url"
+    }
+  }
 }
 
