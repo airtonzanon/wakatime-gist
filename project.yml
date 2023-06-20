@@ -1,0 +1,5 @@
+packages:
+  - name: wakatime
+    actions:
+      - name: gist
+        runtime: 'python:default'
